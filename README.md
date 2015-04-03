@@ -22,7 +22,7 @@ pod "OLGDefer"
 
 ## Author
 
-KAMEDAkyosuke, kameda-kyosuke@kayac.com
+KAMEDAkyosuke, organlounge@me.com
 
 ## License
 
